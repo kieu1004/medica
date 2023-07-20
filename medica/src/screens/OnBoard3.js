@@ -68,15 +68,15 @@ export default function onBoard3({ navigation }) {
 
 
 const styles = StyleSheet.create({
-    container: {
-        width: '100%',
-        height: '100%'
+    container:{
+        width:'100%',
+        height:'100%'
     },
 
-    containerImg: {
-        display: 'flex',
-        height: '100%',
-        width: '100%',
+    containerImg:{
+        display:'flex',
+        height:'100%',
+        width:'100%',
         // top: 100
     },
 
@@ -84,11 +84,11 @@ const styles = StyleSheet.create({
         paddingHorizontal: 20,
         justifyContent: 'space-between',
         paddingBottom: 20,
-        top: -350
+        top: -400
     },
 
     indicatorContainer: {
-        marginTop: 50,
+        marginTop: 80,
         flex: 1,
         justifyContent: 'center',
         flexDirection: 'row',

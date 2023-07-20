@@ -80,11 +80,11 @@ const styles = StyleSheet.create({
         paddingHorizontal: 20,
         justifyContent: 'space-between',
         paddingBottom: 20,
-        top: -350
+        top: -400
     },
 
     indicatorContainer: {
-        marginTop: 50,
+        marginTop: 80,
         flex: 1,
         justifyContent: 'center',
         flexDirection: 'row',
