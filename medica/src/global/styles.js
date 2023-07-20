@@ -22,7 +22,7 @@ export const colors = {
     text_fuzz3: "#333",
     text_fuzz6: "#666",
     text_fuzz7: "#777",
-    text_white: "#000",
+    text_white: "white",
 
 }
 
